@@ -2,7 +2,6 @@
 
 **Research Track:** Xây dựng hệ thống kiểm thử tự động cho thiết bị IoT/Matter
 **Research Direction:** Test-bed đánh giá tự động tính năng, thông số kỹ thuật và độ ổn định dài hạn
-**Level:** R1 — Explore & Reproduce *(nền tảng dùng chung cho toàn bộ pipeline Nội dung 8)*
 
 
 ---
