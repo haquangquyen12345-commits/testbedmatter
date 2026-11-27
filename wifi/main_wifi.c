@@ -15,8 +15,8 @@
 #include "nvs_flash.h"
 #include "esp_netif.h"
 
-#define WIFI_SSID "quyendeptraivl"
-#define WIFI_PASS "cccccccc"
+#define WIFI_SSID "YOURSSID"
+#define WIFI_PASS "YOURPASSWORD"
 
 #define MAX_FRAME 2000
 #define QUEUE_DEPTH 64
